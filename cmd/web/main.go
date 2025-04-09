@@ -7,6 +7,7 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
+
 	"github.com/atomiksan/bed-and-breakfast/pkg/config"
 	"github.com/atomiksan/bed-and-breakfast/pkg/handlers"
 	"github.com/atomiksan/bed-and-breakfast/pkg/render"
